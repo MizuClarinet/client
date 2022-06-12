@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Please file a separate report for each issue
+about: Please fill a separate report for each issue
 title: Please add a brief but descriptive title
 labels: Bug
 assignees: ''
