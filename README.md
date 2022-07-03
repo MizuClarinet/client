@@ -1,4 +1,4 @@
-# 🐞 mizu-client-issues
+# 🐞 Client Issues
 
 Mizu Client's public issues repository, used to report and track issues related to the client itself.
 
